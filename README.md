@@ -1,5 +1,14 @@
 # Hey there 👋
 
+I'm Tiff.  
+I'm an aspiring Network Engineer with a passion for automation, cybersecurity, and open source projects.
+
+🔧 Tech Stack: VMware Workstation | Wireshark | Nmap  
+📚 Currently Learning: PowerShell | Windows Server 
+
+📫 Reach me at: [LinkedIn](www.linkedin.com/in/tyh-nichols)
+
+
 <!--
 #edit later
 **tyhnichols/tyhnichols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
