@@ -6,7 +6,7 @@ I'm an aspiring Network Engineer with a passion for automation, cybersecurity, a
 🔧 Tech Stack: VMware Workstation | Wireshark | Nmap  
 📚 Currently Learning: PowerShell | Windows Server 
 
-📫 Reach me at: [LinkedIn](www.linkedin.com/in/tyh-nichols)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tyh-nichols)
 
 
 <!--
